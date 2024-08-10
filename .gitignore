@@ -1,0 +1,6 @@
+repos/
+!repos/about.md
+node_modules/
+config/
+!config/config.example.json
+.idea/
