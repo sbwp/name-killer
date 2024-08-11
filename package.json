@@ -4,13 +4,14 @@
   "description": "Replaces all instances of names in git history",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sbwp/name-killer.git"
   },
-  "author": "sbwp",
+  "author": "Sabrina Bea",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sbwp/name-killer/issues"

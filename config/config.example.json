@@ -1,4 +1,31 @@
 {
-  "personalAccessToken": null,
-  ""
+    "githubUsername": "octocat",
+    "githubPersonalAccessToken": "github_pat_0000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "dry",
+    "workingDirectory": "/home/octocat/name-killer-wd",
+    "protocol": "ssh",
+    "oldAuthorNames": [
+        "catopus",
+        "Cat O'Pus",
+        "catoberfest",
+        "Catoberfest",
+        "hachineko",
+        "Hachinecco"
+    ],
+    "newAuthorName": "Octocat",
+    "oldAuthorEmails": [
+        "catopus@example.com",
+        "catoberfest@example.com"
+    ],
+    "newAuthorEmail": "octocat@github.com",
+    "textReplacements": {
+        "catopus": "octocat",
+        "catoberfest": "octocat",
+        "hachineko": "octocat",
+        "Cat O'Pus": "The Octocat",
+        "Catoberfest": "Octocat",
+        "Hachinecco": "Octoccat (with 2 Cs)",
+        "CATOPUS": "OCTOCAT",
+        "CAT OPUS": "OCTOCAT"
+    }
 }

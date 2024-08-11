@@ -1,5 +1,8 @@
 repos/**/*
+repos/*
 !repos/about.md
+backups/**/*
+!backups/about.md
 node_modules/
 config/*
 !config/config.example.json
