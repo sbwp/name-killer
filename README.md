@@ -1,5 +1,5 @@
 # Name Killer
-Name Killer removes all instances of a name from a project.
+Name Killer removes all instances of a name from all repos on your GitHub account.
 
 But like, it's probably a bad idea. This is only for when you absolutely want to scrub a name from the history of a project to the point where you are willing to destructively scrub the history. You probably don't want to do this, and if anybody else works on any of these repos, you _absolutely_ should ask them and make sure they understand the ramifications before doing this.
 
